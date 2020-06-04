@@ -1,2 +1,4 @@
 # hello-world
-Just another repository.
+
+Hi humans.
+I find chili food good food.
