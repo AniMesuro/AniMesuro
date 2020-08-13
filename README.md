@@ -11,7 +11,8 @@ I also make digital paintings as a hobby.
 [📺Youtube](https://www.youtube.com/channel/UC3N9EgHVUHwKj0W3oLWCsMg)
 
 ## My Projects
-- [Rhubarb Lipsync TP Integration For Godot](https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot)
+- [Rhubarb Lip Sync TP Integration For Godot](https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot)
+- [Animation Frame Picker for Godot](https://github.com/AniMesuro/Animation-Frame-Picker-for-Godot)
 
 
 
