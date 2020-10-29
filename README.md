@@ -17,4 +17,4 @@ I also make digital paintings as a hobby.
 
 
 If you found my tools useful, I'd greatly appreciate a donation.</p>
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F28MCH)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V82FBZH)
