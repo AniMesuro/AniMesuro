@@ -6,7 +6,7 @@ I'm comfortable in Godot Engine and GDScript, currently learning Lua.
 I also make digital paintings as a hobby.
 
 ## Social Media
-[🐦Twitter](https://twitter.com/Programmesuro)
+[🐦Twitter](https://twitter.com/CrowMesuro)
 [🎨Art Instagram](https://www.instagram.com/animesuro/)
 [📺Youtube](https://www.youtube.com/channel/UC3N9EgHVUHwKj0W3oLWCsMg)
 
