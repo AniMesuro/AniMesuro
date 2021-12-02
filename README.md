@@ -1,9 +1,9 @@
 # About Me
 
 Hello, I'm Mesuro, 👋 I'm from Brazil and I make free GameDev tools and also develop games.
-I'm comfortable in Godot Engine and GDScript, currently learning Lua.
+I'm comfortable in Godot Engine and GDScript.
 
-I also make digital paintings as a hobby.
+I make digital paintings as a hobby.
 
 ## Social Media
 [🐦Twitter](https://twitter.com/CrowMesuro)
@@ -13,6 +13,7 @@ I also make digital paintings as a hobby.
 ## My Projects
 - [Rhubarb Lip Sync TP Integration For Godot](https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot)
 - [Animation Frame Picker for Godot](https://github.com/AniMesuro/Animation-Frame-Picker-for-Godot)
+- [PosePal for Godot (WORK IN PROGRESS)](https://github.com/AniMesuro/posepal)
 
 
 
