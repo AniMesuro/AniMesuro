@@ -16,7 +16,7 @@ I make digital paintings as a hobby. I code as a hobby too.
 ## My Projects
 - [Rhubarb Lip Sync TP Integration For Godot](https://github.com/AniMesuro/rhubarb-lipsync-tp-integration-godot) - Automatic lipsync for AnimationPlayer.
 - [Animation Frame Picker for Godot](https://github.com/AniMesuro/Animation-Frame-Picker-for-Godot) - Frame Picker to use in AnimationPlayer.
-- [PosePal for Godot](https://github.com/AniMesuro/posepal) - 2D Pose Manager that helps automate cutout animation.
+- [posepal for Godot](https://github.com/AniMesuro/posepal) - 2D Pose Manager that helps automate cutout animation.
 
 
 
