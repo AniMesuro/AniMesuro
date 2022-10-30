@@ -1,7 +1,8 @@
 # About Me
 
-Hello, I'm Mesuro, 👋 I'm from Brazil and I make free GameDev tools and also develop games.
-I'm comfortable in Godot Engine and GDScript. I know only a **little** bit of Python and lua.
+Hello, I'm Mesuro, 👋 I'm from Brazil and I make free GameDev tools and also develop games.<br>
+I'm comfortable in Godot Engine and GDScript. I know only a **little** bit of Python, lua, html, js, css.<br>
+[[Check My Website]](https://animesuro.github.io)
 
 ### Languages:
 🇧🇷Portuguese C2 | 🇺🇸English B2 | 🇷🇺Russian A2
